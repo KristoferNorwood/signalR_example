@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "m7CsHvX4lpLCWgBDjb4urm5NaxeSKFwagWFUOBlV2+1QwE2YdOGal7+i+V9fvONPmG2HfwHGxmlxtz2GTIshVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Krist\\Documents\\!School Programming Assignments\\Capstone\\signalR_example\\signalR_example.Api\\signalR_example.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Krist\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Krist\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Krist\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Krist\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Krist\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Krist\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
