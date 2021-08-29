@@ -61,6 +61,9 @@ namespace signalR_example.Api
 
 			app.UseHttpsRedirection();
 
+			// signalR_example -- Using the cors policy we created
+			app.UseCors("ClientPermission");
+
 			app.UseRouting();
 
 			app.UseAuthorization();
