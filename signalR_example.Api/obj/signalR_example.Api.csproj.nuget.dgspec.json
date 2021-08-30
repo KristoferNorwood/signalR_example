@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Krist\\Documents\\!School Programming Assignments\\Capstone\\signalR_example\\signalR_example.Api\\signalR_example.Api.csproj": {}
+    "C:\\Users\\Krist\\Documents\\0School Programming Assignments\\Capstone\\signalR_example\\signalR_example.Api\\signalR_example.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Krist\\Documents\\!School Programming Assignments\\Capstone\\signalR_example\\signalR_example.Api\\signalR_example.Api.csproj": {
+    "C:\\Users\\Krist\\Documents\\0School Programming Assignments\\Capstone\\signalR_example\\signalR_example.Api\\signalR_example.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Krist\\Documents\\!School Programming Assignments\\Capstone\\signalR_example\\signalR_example.Api\\signalR_example.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Krist\\Documents\\0School Programming Assignments\\Capstone\\signalR_example\\signalR_example.Api\\signalR_example.Api.csproj",
         "projectName": "signalR_example.Api",
-        "projectPath": "C:\\Users\\Krist\\Documents\\!School Programming Assignments\\Capstone\\signalR_example\\signalR_example.Api\\signalR_example.Api.csproj",
+        "projectPath": "C:\\Users\\Krist\\Documents\\0School Programming Assignments\\Capstone\\signalR_example\\signalR_example.Api\\signalR_example.Api.csproj",
         "packagesPath": "C:\\Users\\Krist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Krist\\Documents\\!School Programming Assignments\\Capstone\\signalR_example\\signalR_example.Api\\obj\\",
+        "outputPath": "C:\\Users\\Krist\\Documents\\0School Programming Assignments\\Capstone\\signalR_example\\signalR_example.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Krist\\AppData\\Roaming\\NuGet\\NuGet.Config",
