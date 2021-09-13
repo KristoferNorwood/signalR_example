@@ -23,7 +23,7 @@ const Chat = () => {
 	useEffect(() => {
 		if (connection) {
 			connection.start()
-				.then(reuslt => {
+				.then(result => {
 					console.log('Connected!');
 
 					connection.on('ReceiveMessage', message => {
