@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { HubConnectionBuilder } from '@microsoft/signalr';
+import { HubConnectionBuilder } from 'signalr/dist/esm';
 
 import ChatWindow from './ChatWindow/ChatWindows';
 import ChatInput from './ChatInput/ChatInput';

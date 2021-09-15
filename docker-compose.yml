@@ -2,21 +2,25 @@
 version: "3.4"
 
 services:
-  client:
-    image: client
-    build:
-      context: ./client
-      dockerfile: Dockerfile
-    environment:
-      NODE_ENV: production
-    ports:
-      - 3000:3000
+  # client:
+  #   image: client
+  #   build:
+  #     context: ./client
+  #     dockerfile: Dockerfile
+  #   environment:
+  #     NODE_ENV: production
+  #   ports:
+  #     - 3000:3000
+  # - 80:3000
 
   signalrexampleapi:
     image: signalrexampleapi
     build:
       context: .
       dockerfile: Dockerfile
+    entrypoint: ./startup.sh
     ports:
+      - 3000:3000
+      - 5000:5000
+      - 5001:5001
       - 80:80
-      # - 5001:5001
